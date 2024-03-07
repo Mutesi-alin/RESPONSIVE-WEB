@@ -1,0 +1,115 @@
+
+
+.aline{
+
+    width:25% ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+
+.image{
+}
+button{
+
+    width: 120px;
+    padding: 15px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 40px;
+    color:white;
+    background-color: blue;
+}
+h3{
+    color: brown;
+}
+.add{
+    padding: 200px;
+}
+.content{
+    display: flex;
+    padding: 56px;
+    border: solid rgb(240, 215, 215);
+}
+.imana{
+    border-radius: 45px;
+    padding-left: 56px;}
+
+
+.nibyo{
+    display: flex;
+}
+h3{
+    color: brown;
+}
+ .just{
+    display: flex;
+    padding: 56px;
+    border: solid rgb(243, 222, 222);
+ } 
+ .byose{
+    display: flex;
+ }
+.haha{
+
+    display: flex;
+    justify-content: space-around;
+    border: solid rgb(240, 222, 222);
+
+    
+
+}
+.jek{
+
+    padding: left 300px; ;
+}
+.H4{
+    color: brown;
+}
+.done{
+    text-align: center;
+}
+.nibyo{
+    text-align: center;
+    border: solid rgb(241, 232, 232);
+}
+.yego{
+    padding-left: 300px;
+
+}
+.go{
+    display: flex;
+    border: solid rgb(247, 221, 221);
+}
+.gwino{
+    padding-left: 300px;
+}
+.uwimana{
+    display: flex;
+    border: solid rgb(236, 207, 207);
+}
+
+@media all and ( max-width : 500px){
+    body{}
+}
+.time{
+    border: solid rgb(240, 205, 205);
+    display: flex;
+}
+fun{
+    display: flex;
+    padding-left: 200px;
+
+}
+
+
+.heading{
+    display: flex;
+    
+    gap: 100px;
+    border: solid rgb(243, 224, 224);
+    
+}
+
